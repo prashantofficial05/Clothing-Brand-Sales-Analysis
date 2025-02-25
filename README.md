@@ -19,25 +19,37 @@ This project involves exploratory data analysis (EDA) of clothing sales data, un
 # Key Metrics
 
 **Product Sales:** Identify top-performing and low-performing product types.
+
 **Color Preferences:** Analyze which colors dominate sales.
+
 **Garment Group Demand:** Determine the most preferred garment groups.
+
 **Graphical Appearances:** Evaluate customer preferences for solid vs. patterned designs.
 
 # Techniques
 
 **Exploratory Data Analysis (EDA):** Identifying trends, correlations, and outliers.
+
 **Data Visualization:** Using charts and graphs to highlight insights.
+
 **Business Recommendations:** Providing data-driven strategies for inventory and marketing.
 
 # Challenges
+
 **Seasonal Variations:** Demand changes based on fashion trends.
+
 **Stock Management:** Balancing supply with customer demand.
+
 **Design Trends:** Adapting to shifting preferences for patterns and colors.
 
 # Skills
+
 **Data Analysis:** EDA, trend identification, and correlation analysis.
+
 **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn).
+
 **Visualization:** Dashboard creation for business insights.
+
 **Business Strategy:** Recommendations for inventory management and marketing.
 
 # Summary
@@ -50,6 +62,7 @@ Underwear Bottom has the lowest sales in the top categories, indicating growth p
 Popular Colors:
 
 **Black, Dark Blue, and White are the most preferred colors.**
+
 Lighter shades like Light Pink and Light Blue are also favored, requiring more variety in stock.
 Garment Group Demand:
 
